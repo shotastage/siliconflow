@@ -29,4 +29,4 @@ else
 fi
 
 echo "Cleaning up..."
-# rm ./Miniforge3-MacOSX-arm64.sh
+rm ./Miniforge3-MacOSX-arm64.sh
